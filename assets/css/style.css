@@ -1,0 +1,43 @@
+header{
+    text-align: center;
+    font-size: 40px;;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background:#5A18C9;
+    color:whitesmoke;
+
+
+}
+
+body{
+    background:#00cc99;
+
+
+}
+.infoBox{
+    border: 2px solid black;
+    background:#FC7307;
+    font-weight:700;
+
+}
+
+.bdrCheck {
+    border: 2px solid black;
+    height: 50px;
+}
+.goalBox{
+    background:red;
+
+
+}
+.winsLossesBox {
+    background:yellow;
+
+}
+.scoreText{
+    background:red;
+
+}
+.scoreBox{
+    background:yellow;
+}
