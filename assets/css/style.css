@@ -27,6 +27,8 @@ body{
 }
 .goalBox{
     background:red;
+    font-size: 30px;
+    text-align: center;
 
 
 }
@@ -35,9 +37,17 @@ body{
 
 }
 .scoreText{
-    background:red;
+    background:yellow;
+    border-top: 2px solid black;
+    border-right:  2px solid black;
+    border-left:  2px solid black;
 
 }
 .scoreBox{
     background:yellow;
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 2px solid black;
+    border-right:  2px solid black;
+    border-left:  2px solid black;
 }
